@@ -1,0 +1,1 @@
+{"version":3,"file":"Answer.d.ts","sourceRoot":"","sources":["../Answer.ts"],"names":[],"mappings":"AAAA,qBAAa,MAAM;IACf,OAAO,CAAC,IAAI,CAAS;IACrB,OAAO,CAAC,SAAS,CAAW;gBAGhB,IAAI,EAAE,MAAM,EAAE,SAAS,EAAE,MAAM,EAAE;IAMtC,OAAO,IAAI,MAAM;IAKjB,YAAY,IAAI,MAAM,EAAE;CAGlC"}
